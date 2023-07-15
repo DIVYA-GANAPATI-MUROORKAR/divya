@@ -1,6 +1,6 @@
 import React from 'react';
 
-const About = () => {
+const AboutUs = () => {
     return (
         <>
             <h1>Tourism in India</h1>
@@ -14,17 +14,23 @@ According to Ministry of Tourism, Over 6.19 million and 1.52 million foreign tou
 The World Economic Forum's Travel and Tourism Development Index 2021, which replaced its previous Travel and Tourism Competitiveness Report, ranks India 54th out of 117 countries overall.[11] The last edition of the Travel and Tourism Competitiveness Report, published in 2019, had ranked India 34th out of 140 countries overall. The report ranked the price competitiveness of India's tourism sector 13th out of 140 countries. It mentioned that India has quite good air transport infrastructure (ranked 33rd), particularly given the country's stage of development, and reasonable ground and port infrastructure (ranked 28th). The country also scored high on natural resources (ranked 14th), and cultural resources and business travel (ranked 8th).[12] The World Tourism Organization reported that India's receipts from tourism during 2012 ranked 16th in the world, and 7th among Asian and Pacific countries.[13]
 
 The Ministry of Tourism designs national policies for the development and promotion of tourism. In the process, the Ministry consults and collaborates with other stakeholders in the sector including various central ministries/agencies, state governments, union territories and private sector representatives. Concerted efforts are being made to promote niche tourism products such as rural, cruise, medical and eco-tourism.[14] The Ministry of Tourism maintains the Incredible India campaign focused on promoting tourism in India.
-BEAUTY OF OCEAN:
+            <p>BEAUTY OF OCEAN:
 We celebrate World Oceans Day on 8 June to remind everyone of the major role the oceans have in everyday life. They are the lungs of our planet, providing most of the oxygen we breathe. They are a major source of food and medicines and a critical part of the biosphere. ​
 The United Nations General Assembly designated 8 June as "World Oceans Day" in 2008 as a day to celebrate together the beauty, the wealth and the promise of the ocean, as well as inform the public of the impact of human actions on the ocean in order to mobilize and unite the world’s population to protect and sustainably manage the world's oceans.​
 This exhibit is organized by the Division for Ocean Affairs and the Law of the Sea, Office of Legal Affairs of the United Nations with the support of the Swiss watch manufacturer Blancpain. The photos are drawn from the annual United Nations World Oceans Day Photo Competition. Some of the information has been sourced from the 2016 First World Ocean Assessment.​
-BEAUTY OF MOUNTAIN:
+             <p>BEAUTY OF MOUNTAIN:
 They usually have steep, sloping sides and sharp or rounded ridges, and a high point, called a peak or summit. Most geologists classify a mountain as a landform that rises at least 1,000 feet (300 meters) or more above its surrounding area. A mountain range is a series or chain of mountains that are close together.
-
+            <p>OUTSKITS AND MOUNTAIN:
+The mountains are the medicine to a tired body & mind. When you breathe the fresh mountain air, treat your eyes to the spectacular views and lose yourself in the charming ambiance, you feel refreshed from within. India has some of the best hill stations in the world, some of which offer an ideal setting for a romantic getaway, while others are just great for an enjoyable family vacation. The alluring and soothing landscapes of India will compel you to drink the nectar of joy and calmness from its bliss inducing views.
+Let’s go somewhere where you will feel alone with nature and return to reason and faith. Become one with the tranquil and serene vibes oozing from the paradise of nature.
+In this blog, we bring you the top 40 hill stations in India for the best holiday experience. Surprisingly, you can explore some of these hill stations in any season of the year, be it summer or winter or monsoon. Every season brings some changes to the beauty of these places and creates new memories for you.
+</p>
+</p>   
+</p>
 </p>
 </h6>
         </>
     );
 };
 
-export default About;
+export default AboutUs;

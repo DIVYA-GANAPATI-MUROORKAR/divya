@@ -5,36 +5,21 @@ import {Link} from "react-router-dom";
 const NavBar = () =>{
     return(
         <>
-            <nav className="navbar navbar-expand-lg bg-dark navbar-dark">
+            <nav className="navbar navbar-expand-lg bg-warning navbar-warning">
                 <div className="container-fluid">
                     <Link className="navbar-brand" to="/">
-                        Navbar
+                        NAVBAR
                     </Link>
                     <div className="collapse navbar-collapse">
                         <ul className="navbar-nav me-auto">
                             <li className="nav-item">
-                                <Link className="nav-link" to="/">
-                                    Home
-                                </Link>
-                            </li>
-                            <li className="nav-item">
-                                <Link className="nav-link" to="/destination">
+                                <Link className="nav-link" to="/Destination">
                                     Destination
                                 </Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="/about">
+                                <Link className="nav-link" to="/About">
                                     About
-                                </Link>
-                            </li>
-                            <li className="nav-item">
-                                <Link className="nav-link" to="/Login">
-                                    Login
-                                </Link>
-                            </li>
-                            <li className="nav-item">
-                                <Link className="nav-link" to="/Registar">
-                                    Register
                                 </Link>
                             </li>
                         </ul>

@@ -1,3 +1,4 @@
+import React from 'react';
 const Login = () => {
   return ( 
       <body>
@@ -24,7 +25,7 @@ const Login = () => {
               </div>
               <div class="text-center">
               
-              <a href="index.html" class="btn btn-primary btn-lg "  role="button" >Login</a>
+              <a href="Login.html" class="btn btn-primary btn-lg "  role="button" >Login</a>
               
              </div>              
           </form>
